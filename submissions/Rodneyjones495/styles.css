@@ -1,0 +1,14 @@
+div {
+    width: 300px;
+    margin: auto;
+    border: 1px solid red;
+}
+p {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+p {
+    background-color: blue;
+}
